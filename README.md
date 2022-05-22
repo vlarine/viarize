@@ -4,7 +4,7 @@ Viarize your video. Python script for making a VR180 video from your regular vid
 
 This repo uses code from [Disco Diffusion Colab](https://github.com/alembics/disco-diffusion) using [MidaS](https://github.com/isl-org/MiDaS.git) and [AdaBins](https://github.com/shariqfarooq123/AdaBins.git) Depth Estimation libraries.
 
-![Vincent](media/vinsent.gif)
+![Vincent](media/vincent.gif)
 
 ## Installation
 
@@ -46,7 +46,7 @@ ffmpeg -i out/%04d_r.png vincent_r.mp4
 
 Stitch videos using [VR180 CREATOR](https://www.patrickgrunwald.de/vr180-creator-download). 
 
-![Vincent VR180](media/vinsent180.gif)
+![Vincent VR180](media/vincent180.gif)
 
 Watch the video in the [Moon VR Player](https://moonvrplayer.com/) or in [your own project](https://github.com/vlarine/VR180Video)
 
